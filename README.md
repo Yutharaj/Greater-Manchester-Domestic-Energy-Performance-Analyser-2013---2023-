@@ -62,7 +62,7 @@ Dataset source: [EPC Open Data](https://epc.opendatacommunities.org/login#local-
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/Yutharaj/Greater-Manchester-Domestic-Energy-Performance-Analyser-2013-2023->
    ```
 2. Import the SQL dataset into an Azure SQL Database.
 3. Connect Power BI to the database and load the stored procedures and views.
