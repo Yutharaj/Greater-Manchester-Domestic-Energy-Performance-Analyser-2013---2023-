@@ -1,9 +1,16 @@
 # Greater Manchester Domestic Energy Performance Analyser (2013 - 2023)
 
-## Overview
+## Table of Content
+- [Project Overview](#project-overview)
+- [Project Features](#project-features)
+- [Dataset](#dataset)
+- [Database Utilization](#database-utilization).
+- [Power BI Visualization](#power-bi-visualization)
+- [Recommendations](#recommendations)
+## Project Overview
 This project analyzes the Energy Performance Certificates (EPC) dataset for Greater Manchester between 2013 and 2023. The goal is to gain insights into energy efficiency, CO2 emissions, and potential cost savings for properties in the region. The data is processed using Microsoft Azure SQL Database and visualized in Power BI.
 
-## Features
+## Project Features
 - **Data Import and Processing**: The dataset is imported into an Azure SQL Database and managed using SQL Server Management Studio (SSMS).
 - **Database Operations**: Views, Common Table Expressions (CTEs), and stored procedures are used to analyze EPC data.
 - **Power BI Dashboard**: Interactive dashboards provide insights into energy performance, cost savings, and environmental impact.
