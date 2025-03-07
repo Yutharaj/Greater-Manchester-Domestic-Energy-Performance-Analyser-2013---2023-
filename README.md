@@ -35,6 +35,7 @@ Dataset source: [EPC Open Data](https://epc.opendatacommunities.org/login#local-
    - Created stored procedures to summarize energy ratings by property type and calculate energy savings.
 
 ## Power BI Visualization
+[Click here for the Live Dashboard](https://app.powerbi.com/groups/me/reports/783320e1-759f-4135-810a-1a7465248926/3e2183c054574ca635c2?experience=power-bi)
 1. **Home Page**: Overview of energy performance analysis.
 2. **Energy Performance Overview**:
    - **KPIs**: CO2 emissions, energy efficiency, total energy consumption.
